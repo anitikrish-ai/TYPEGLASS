@@ -1,0 +1,6 @@
+{
+  "name": "LiquidType",
+  "description": "Desktop typing learning application with a premium Liquid Glass interface, real-time analytics, responsive keyboard visualizer, and offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
